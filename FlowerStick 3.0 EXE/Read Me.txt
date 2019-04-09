@@ -1,9 +1,0 @@
-this is my test project so i can test what kinds of stuff i can do with the program
-
-i do not own any music or sounds used in the game
-
-
-i dont recommend deleting this folder after getting the exe because then you wont have the icon and the game (probably) wont work
-FlowerStick Version 3.0
-
-	- SioN  twitch.tv/sion_510n
